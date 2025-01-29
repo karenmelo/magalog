@@ -10,7 +10,6 @@ namespace Magalog.Tests.Services
     {
         private readonly FileTestFixture _fileTestFixture;
        
-
         public LegacyProcessingServiceTests(FileTestFixture fileTestFixture)
         {
             _fileTestFixture = fileTestFixture;           
@@ -30,8 +29,6 @@ namespace Magalog.Tests.Services
             //assert
             mocker.GetMock<LegacyProcessingService>().Verify(l => l.ProcessLegacyFile(fileContent), Times.Once);   
         }
-
-        //testar um arquivo vazio.
-       
+        
     }
 }
