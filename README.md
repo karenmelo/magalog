@@ -28,13 +28,17 @@
   - Teste de Unidade
   - DDD
 
-#Tecnologias
+#Tecnologias e Ferramentas
+
+ - Visual Studio 2022
+ - Docker (para startar um instância do SQLServer)
+ - Azure Data Studio
  - .Net 8
  - SqlServer
  - Entity Framework Core
  - xUnit
  - Asp.Net Web API
- - Automapper
+ - AutoMapper
  - Moq
  - AutoMock
  - Bogus
