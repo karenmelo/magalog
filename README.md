@@ -22,6 +22,7 @@
 ![image](https://github.com/user-attachments/assets/d25ad8ed-0374-46e7-be19-9c1171580a8c)
 ![image](https://github.com/user-attachments/assets/e3621be1-53d7-416e-a014-8135e03027bd)
 
+
 #Abordagens
   - Clean Code
   - SOLID
@@ -31,10 +32,9 @@
 #Tecnologias e Ferramentas
 
  - Visual Studio 2022
- - Docker (para startar um instância do SQLServer)
+ - Docker (para "startar" um instância do SQLServer sem a necessidade de instalá-lo)
  - Azure Data Studio
  - .Net 8
- - SqlServer
  - Entity Framework Core
  - xUnit
  - Asp.Net Web API
