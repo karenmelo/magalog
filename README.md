@@ -26,7 +26,7 @@
   - Clean Code
   - SOLID
   - Testes
-  - Arquitetura em camadas
+  - DDD
 
 #Tecnologias
  - .Net 8
@@ -35,3 +35,6 @@
  - xUnit
  - Asp.Net Web API
  - Automapper
+ - Moq
+ - AutoMock
+ - Faker
