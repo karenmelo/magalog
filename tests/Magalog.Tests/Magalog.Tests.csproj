@@ -25,6 +25,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\src\Magalog.API\Magalog.API.csproj" />
     <ProjectReference Include="..\..\src\Magalog.Application\Magalog.Application.csproj" />
     <ProjectReference Include="..\..\src\Magalog.Data\Magalog.Data.csproj" />
     <ProjectReference Include="..\..\src\Magalog.Domain\Magalog.Domain.csproj" />
