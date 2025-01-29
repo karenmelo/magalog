@@ -35,6 +35,7 @@
  - Docker (para "startar" um instância do SQLServer sem a necessidade de instalá-lo)
  - Azure Data Studio
  - .Net 8
+ - C#
  - Entity Framework Core
  - xUnit
  - Asp.Net Web API
