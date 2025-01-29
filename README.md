@@ -38,4 +38,5 @@
  - Moq
  - AutoMock
  - Bogus
+ - Faker
    
