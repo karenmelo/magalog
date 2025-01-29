@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magalog.API", "src\Magalog.API\Magalog.API.csproj", "{1710C6D2-9549-4F70-BD6D-6CE9BAD1602A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magalog.Application", "src\Magalog.Application\Magalog.Application.csproj", "{D49B3EE7-B658-46D2-8380-12906B86EEFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magalog.Domain", "src\Magalog.Domain\Magalog.Domain.csproj", "{D97F5BD3-1D44-46E1-A465-6D74CBB1EBC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magalog.IoC", "src\Magalog.IoC\Magalog.IoC.csproj", "{67620B90-EA02-49E5-9C30-60C3BEFA9C5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magalog.Data", "src\Magalog.Data\Magalog.Data.csproj", "{F31ECEEC-AF3B-4F32-A828-095013DE82F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magalog.Tests", "tests\Magalog.Tests\Magalog.Tests.csproj", "{BD8FCBE7-35F3-49B3-BCF8-738A5E80F781}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1710C6D2-9549-4F70-BD6D-6CE9BAD1602A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1710C6D2-9549-4F70-BD6D-6CE9BAD1602A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1710C6D2-9549-4F70-BD6D-6CE9BAD1602A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1710C6D2-9549-4F70-BD6D-6CE9BAD1602A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D49B3EE7-B658-46D2-8380-12906B86EEFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D49B3EE7-B658-46D2-8380-12906B86EEFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D49B3EE7-B658-46D2-8380-12906B86EEFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D49B3EE7-B658-46D2-8380-12906B86EEFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D97F5BD3-1D44-46E1-A465-6D74CBB1EBC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D97F5BD3-1D44-46E1-A465-6D74CBB1EBC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D97F5BD3-1D44-46E1-A465-6D74CBB1EBC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D97F5BD3-1D44-46E1-A465-6D74CBB1EBC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67620B90-EA02-49E5-9C30-60C3BEFA9C5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67620B90-EA02-49E5-9C30-60C3BEFA9C5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67620B90-EA02-49E5-9C30-60C3BEFA9C5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67620B90-EA02-49E5-9C30-60C3BEFA9C5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F31ECEEC-AF3B-4F32-A828-095013DE82F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F31ECEEC-AF3B-4F32-A828-095013DE82F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F31ECEEC-AF3B-4F32-A828-095013DE82F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F31ECEEC-AF3B-4F32-A828-095013DE82F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD8FCBE7-35F3-49B3-BCF8-738A5E80F781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD8FCBE7-35F3-49B3-BCF8-738A5E80F781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD8FCBE7-35F3-49B3-BCF8-738A5E80F781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD8FCBE7-35F3-49B3-BCF8-738A5E80F781}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
