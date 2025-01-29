@@ -37,4 +37,5 @@
  - Automapper
  - Moq
  - AutoMock
- - Faker
+ - Bogus
+   
