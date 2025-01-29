@@ -25,7 +25,7 @@
 #Abordagens
   - Clean Code
   - SOLID
-  - Testes
+  - Teste de Unidade
   - DDD
 
 #Tecnologias
